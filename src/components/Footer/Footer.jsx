@@ -38,7 +38,7 @@ const Footer = () => {
       <div className="flex items-center flex-col footer sm:space-y-3 md:flex-row justify-center md:space-x-44">
         <div className="flex flex-col items-start justify-start">
           <Logo />
-          <span>© 2024 tech All Rights Reserved</span>
+          <span>© 2024 Blacks Tech Africa. All Rights Reserved</span>
         </div>
 
 

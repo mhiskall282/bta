@@ -25,13 +25,13 @@ const ResponsiveMenu = ({ showMenu }) => {
                
               </li>
               <li className="cursor pointer hover:text-gray-800 hover:animate-pulse">
-                <a href="./about">About us</a>
+                <a href="./about">About Us</a>
               </li>
               <li className="cursor pointer hover:text-gray-800 hover:animate-pulse">
                 <a href="./services">Services</a>
               </li>
               <li className="cursor pointer hover:text-gray-800 hover:animate-pulse">
-                <a href="./career">careers</a>
+                <a href="./career">Careers</a>
               </li>
               <li className="cursor pointer text-center  hover:text-gray-800 hover:animate-pulse   bg-black p-2 rounded-full text-white animate-pulse">
                 <a href="./">Learning Platform</a>
